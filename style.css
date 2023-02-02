@@ -1,6 +1,22 @@
-a {
-    color: black;
+@media screen and (min-width: 576px) {
+    * {
+        box-sizing: border-box;
+    }
+    
 }
 
+@media screen  and (max-width: 576px) {
+    #movingin {
+        text-align: center;
+        
+    }
+    
+}
 
-
+@media screen  and (max-width: 576px) {
+    #let {
+        text-align: center;
+        
+    }
+    
+}
